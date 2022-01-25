@@ -1,0 +1,35 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* HEADER */
+header
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menus
+{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.menu
+{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+
+.menu a
+{
+    text-decoration: none;
+    color: #000;
+}
