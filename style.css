@@ -126,3 +126,71 @@ h3
     margin: 3px auto 3px auto;
     text-align: center;
 }
+
+/* FOOTER */
+footer
+{
+    background-color: #5b359d;
+    padding-top: 25px;
+    padding-bottom: 32px;
+}
+
+h4
+{
+    color: #fff;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 16px;
+    padding: 16px auto;
+}
+
+.social-network-icons
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.social-network-icon i
+{
+    font-size: 25px;
+    margin: auto 40px;
+    color: #bdaed8;
+}
+
+.links
+{
+    display: flex;
+    justify-content: center;
+}
+
+.link
+{
+    margin: auto 110px;
+    margin-top: 36px;
+}
+
+h5
+{
+    color: #bdaed8;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.link ul
+{
+    padding: 8px 0 8px 36px;
+    color: #fff;
+}
+
+.link ul li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+.contact ul li
+{
+    list-style-type: none;
+}
